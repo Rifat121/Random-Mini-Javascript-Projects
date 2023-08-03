@@ -1,0 +1,49 @@
+body{
+    background-color: cornsilk;
+
+}
+.formstyle{
+    width: 300px;
+    height: 500px;
+    /* background-color: aquamarine; */
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 5%;
+}
+input{
+    background-color: bisque;
+    width: 75px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+    font-family: 'Trebuchet MS';
+    border-radius: 5px;
+    box-sizing: border-box;
+    
+
+}
+input:hover{
+    background-color: black;
+    color: aliceblue;
+    /* zoom: 102%; */
+    font-size: 1.30rem;
+}
+#ans{
+    width: 270px;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    
+}
+#clr{
+    width: 270px;
+    margin-left: 10px;
+}
+#clr:hover{
+    background-color: red;
+}
